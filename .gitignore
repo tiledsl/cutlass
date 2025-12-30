@@ -2,3 +2,9 @@
 __pycache__/
 cutlass_library.egg-info/
 /build*
+logs
+.cache
+.cache/*
+.cache/
+**/.cache
+**/.cache/*
